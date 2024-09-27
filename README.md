@@ -1,1 +1,1 @@
-# Araba-Tanitim-Sitesi
+# Kendimi geliştirmek üzere başladığım bu yolda ufak bir çalışmam.
